@@ -5,7 +5,7 @@ This repository contains a partial implementation (PoC) of a Dynamic Inventory M
 ## Project Structure
 
 - `inventory_system/`: Contains Python modules for inventory logic.
-- `report/`: Includes the Word document for the written report.
+- `report/`: Includes the Pdf document for the written report.
 - `test_inventory.py`: Contains simple test cases for validating operations.
 
 ## Key Features
